@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pagina_GPT3/static/css/main.a8e9a027.css",
+    "main.js": "/pagina_GPT3/static/js/main.b949e9d4.js",
+    "static/media/ai.png": "/pagina_GPT3/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/pagina_GPT3/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/pagina_GPT3/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/pagina_GPT3/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/pagina_GPT3/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/pagina_GPT3/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/pagina_GPT3/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/pagina_GPT3/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/pagina_GPT3/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/pagina_GPT3/index.html",
+    "main.a8e9a027.css.map": "/pagina_GPT3/static/css/main.a8e9a027.css.map",
+    "main.b949e9d4.js.map": "/pagina_GPT3/static/js/main.b949e9d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e9a027.css",
+    "static/js/main.b949e9d4.js"
+  ]
+}
